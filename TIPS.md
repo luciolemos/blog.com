@@ -14,6 +14,9 @@ PHP 7.4.3 (cli) (built: May 26 2020 12:24:22) ( NTS )
 Copyright (c) The PHP Group
 Zend Engine v3.4.0, Copyright (c) Zend Technologies
     with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies
+
+luciolemos@dell:~$ php -m /*Listando os módulos instalados   
+    
 ====================================================================================================================
 
 CAMINHO DO WORKSPACE DO PHPSTORM
