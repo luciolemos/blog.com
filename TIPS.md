@@ -15,8 +15,10 @@ Copyright (c) The PHP Group
 Zend Engine v3.4.0, Copyright (c) Zend Technologies
     with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies
 
-luciolemos@dell:~$ php -m /*Listando os módulos instalados   
-    
+====================================================================================================================
+
+LISTANDO OS MÓDULOS PHP INSTALADOS
+luciolemos@dell:~$ php -m      
 ====================================================================================================================
 
 CAMINHO DO WORKSPACE DO PHPSTORM
