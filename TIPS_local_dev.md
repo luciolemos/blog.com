@@ -1,3 +1,4 @@
+DESENVOLVIMENTO LOCAL
 INSTALANDO BITNAMI LAMPSTACK
 luciolemos@dell:~$ cd Downloads
 luciolemos@dell:~/Downloads$ sudo chmod 755 bitnami-lampstack-7.4.8-0-linux-x64-installer.run

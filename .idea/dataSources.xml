@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="blog@localhost" uuid="fc4c8316-289b-41b7-99c4-622b562b9640">
+    <data-source source="LOCAL" name="MariaDB - meustestes_blog@testes.lemavorum.com" uuid="8b1167c6-5481-4c53-bd22-52ea7dc3d695">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://localhost:3306/blog</jdbc-url>
+      <jdbc-url>jdbc:mariadb://testes.lemavorum.com:3306/meustestes_blog</jdbc-url>
     </data-source>
   </component>
 </project>
