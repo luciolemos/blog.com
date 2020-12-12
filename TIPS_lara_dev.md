@@ -115,7 +115,7 @@ C:\wamp\www\site.com>cd ..
 Linha de comando para a criação do projeto "spima", dentro de "www".
 C:\wamp\www>laravel new spima
 
-Executando p projeto "spima", no vscode.
+Executando o projeto "spima", no vscode.
 C:\wamp\www\spima>code .
 C:\wamp\www\spima>
 
